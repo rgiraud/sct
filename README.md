@@ -1,6 +1,6 @@
 ## SCT: Superpixel-based Color Transfer
 
-Implementation of paper:   [PDF](https://hal.archives-ouvertes.fr/hal-01519644/file/Giraud_SCT_ICIP17.pdf)   -   
+Implementation of paper:   [PDF](https://hal.archives-ouvertes.fr/hal-01519644/file/Giraud_SCT_ICIP17.pdf)   -    
 [Poster](http://rgiraud.vvv.enseirb-matmeca.fr/data/download/pres/Poster_SCT_ICIP_2017.pdf)   - 
 [Slides](http://rgiraud.vvv.enseirb-matmeca.fr/data/download/pres/Slides_SCT_ICIP_2017.pdf)
 ```
