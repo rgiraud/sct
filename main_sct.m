@@ -1,15 +1,3 @@
-% This code is free to use for any non-commercial purposes.
-% It contains an implementation of the SCALP superpixel method proposed in:
-% [1] - Rémi Giraud, Vinh-Thong Ta and Nicolas Papadakis
-%       Superpixel-based Color Transfer
-%       International Conference on Image Processing (ICIP), 2017
-%
-% If you use this code, please cite [1]
-%
-% (C) Rémi Giraud, 2018
-% rgiraud@u-bordeaux.fr, www.remigiraud.fr
-% University of Bordeaux
-
 
 clear all
 close all
