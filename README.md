@@ -3,8 +3,8 @@
 ### Overview
 
 Implementation of paper:   [PDF](https://hal.archives-ouvertes.fr/hal-01519644/file/Giraud_SCT_ICIP17.pdf) - 
-[Poster](http://rgiraud.vvv.enseirb-matmeca.fr/data/download/pres/Poster_SCT_ICIP_2017.pdf)   - 
-[Slides](http://rgiraud.vvv.enseirb-matmeca.fr/data/download/pres/Slides_SCT_ICIP_2017.pdf)
+[Poster](http://remi-giraud.enseirb-matmeca.fr/data/download/pres/Poster_SCT_ICIP_2017.pdf)   - 
+[Slides](http://remi-giraud.enseirb-matmeca.fr/data/download/pres/Slides_SCT_ICIP_2017.pdf)
 ```
 @inproceedings{giraud2017superpixel,
   title={Superpixel-based color transfer},
@@ -31,7 +31,7 @@ run main.m
 
 (C) Rémi Giraud, 2020  
 remi.giraud@u-bordeaux.fr  
-[https://rgiraud.vvv.enseirb-matmeca.fr](https://rgiraud.vvv.enseirb-matmeca.fr)  
+[https://remi-giraud.enseirb-matmeca.fr](https://remi-giraud.enseirb-matmeca.fr)  
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
 
 This code is free to use, share and modify for any non-commercial purposes.  
